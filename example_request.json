@@ -1,0 +1,24 @@
+{
+  "model": "custom-llm-v1",
+  "messages": [
+    {
+      "role": "system",
+      "content": "أنت مساعد ذكي ومفيد. تحدث بالعربية."
+    },
+    {
+      "role": "user",
+      "content": "مرحباً، كيف حالك؟"
+    },
+    {
+      "role": "assistant",
+      "content": "مرحباً! أنا بخير، شكراً لسؤالك. كيف يمكنني مساعدتك اليوم؟"
+    },
+    {
+      "role": "user",
+      "content": "ما هو الطقس اليوم؟"
+    }
+  ],
+  "temperature": 0.7,
+  "stream": false
+}
+
